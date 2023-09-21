@@ -5,3 +5,7 @@ html/*
 conf/ssl/
 !conf/ssl/ssl-params.conf
 conf/ssh/
+logs/
+.env
+conf/apache/virtualhost.conf
+docker-compose.yml
